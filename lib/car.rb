@@ -7,5 +7,3 @@ class Car < Vehicle
 
 
 end
-
-  
